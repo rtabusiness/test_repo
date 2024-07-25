@@ -1,3 +1,7 @@
 This is my first file.
 I will commit it to my git repo.
 The end.
+
+
+Adding text to ammend this file.
+This is a part of a change for testing branching.
