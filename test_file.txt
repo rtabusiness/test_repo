@@ -5,3 +5,5 @@ The end.
 
 Adding text to ammend this file.
 This is a part of a change for testing branching.
+
+Adding lines to test conflict.
